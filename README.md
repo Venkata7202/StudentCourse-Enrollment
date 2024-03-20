@@ -16,6 +16,8 @@ Content-Type: application/json
   "email": "mahesh7202@gmail.com",
   "dateOfBirth": "2002-02-07"
 }
+
+
 GET http://localhost:8087/enrollments/1
 Accept: application/json
 
